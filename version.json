@@ -2,7 +2,11 @@
   "macos": {
     "version": "2.0.2",
     "forceUpdate": false,
-    "releaseNotes": "Tìm kiếm Kinh Thánh, mở cửa sổ ghi chú cho người dùng",
+    "releaseNotes": [
+      "Cải thiện hiệu suất và tốc độ",
+      "Thay đổi giao diện chương trình",
+      "Thêm chức năng tìm kiếm Kinh Thánh"
+    ],
     "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.0/SetupVietBibleMac2.0.1.zip"
   },
   "windows": {
