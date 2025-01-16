@@ -1,6 +1,6 @@
 {
   "macos": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "forceUpdate": false,
     "releaseNotes": [
       "Cải thiện hiệu suất và tốc độ",
