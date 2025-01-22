@@ -1,4 +1,14 @@
 {
+  "android": {
+    "version": "2.0.1",
+    "forceUpdate": false,
+    "releaseNotes": [
+      "Cải thiện hiệu suất và tốc độ",
+      "Thay đổi giao diện chương trình",
+      "Thêm chức năng tìm kiếm Kinh Thánh"
+    ],
+    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.0/vietbible2.0.1.apk"
+  },
   "macos": {
     "version": "2.0.1",
     "forceUpdate": false,
