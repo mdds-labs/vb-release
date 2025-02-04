@@ -14,7 +14,8 @@
     "forceUpdate": false,
     "releaseNotes": [
       "Thêm chức năng gửi phản hồi từ người dùng"
-    ]
+    ],
+    "storeUrl": ""
   },
   "macos": {
     "version": "2.0.1",
