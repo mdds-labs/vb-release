@@ -9,6 +9,13 @@
     ],
     "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.0/vietbible2.0.1.apk"
   },
+  "ios": {
+    "version": "2.0.3",
+    "forceUpdate": false,
+    "releaseNotes": [
+      "Thêm chức năng gửi phản hồi từ người dùng"
+    ]
+  },
   "macos": {
     "version": "2.0.1",
     "forceUpdate": false,
