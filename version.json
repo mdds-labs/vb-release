@@ -28,7 +28,7 @@
     "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.0/SetupVietBibleMac2.0.1.zip"
   },
   "windows": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "forceUpdate": false,
     "releaseNotes": [
       "Thay đổi giao diện trang chủ",
