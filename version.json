@@ -1,13 +1,12 @@
 {
   "android": {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "forceUpdate": false,
     "releaseNotes": [
-      "Cải thiện hiệu suất và tốc độ",
-      "Thay đổi giao diện chương trình",
-      "Thêm chức năng tìm kiếm Kinh Thánh"
+      "Sửa lỗi mở thư viện",
+      "Thêm nút mở Giải nghĩa, Chú giải, Chú thích, Đối chiếu, ..."
     ],
-    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.0/vietbible2.0.1.apk"
+    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.2/vietbible2.0.2.apk"
   },
   "ios": {
     "version": "2.0.3",
