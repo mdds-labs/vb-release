@@ -17,13 +17,13 @@
     "storeUrl": ""
   },
   "macos": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "forceUpdate": false,
     "releaseNotes": [
-      "Cải thiện hiệu suất và tốc độ",
-      "Thay đổi giao diện mới chương trình"
+      "Cải thiện chức năng tô màu chữ trong Kinh Thánh",
+      "Sửa lỗi chương trình"
     ],
-    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.3/SetupVietBibleMac2.0.3.zip"
+    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.4/SetupVietBibleMac2.0.4.zip"
   },
   "windows": {
     "version": "2.0.3",
