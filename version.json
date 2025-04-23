@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "2.0.2",
+    "version": "2.0.4",
     "forceUpdate": false,
     "releaseNotes": [
-      "Sửa lỗi mở thư viện",
-      "Thêm nút mở Giải nghĩa, Chú giải, Chú thích, Đối chiếu, ..."
+      "Thêm chức năng tô màu trong Kinh Thánh",
+      "Sửa lỗi chương trình"
     ],
-    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.2/vietbible2.0.2.apk"
+    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.4/vietbible2.0.4.apk"
   },
   "ios": {
     "version": "2.0.3",
@@ -26,12 +26,12 @@
     "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.4/SetupVietBibleMac2.0.4.zip"
   },
   "windows": {
-    "version": "2.0.3",
+    "version": "2.0.4",
     "forceUpdate": false,
     "releaseNotes": [
-      "Thay đổi giao diện mới cho chương trình",
-      "Cải thiện hiệu suất và tốc độ"
+      "Thêm chức năng tô màu chữ trong Kinh Thánh",
+      "Sửa lỗi chương trình"
     ],
-    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.3/SetupVietBibleWin2.0.3.zip"
+    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.4/SetupVietBibleWin2.0.4.zip"
   }
 }
