@@ -17,21 +17,19 @@
     "storeUrl": ""
   },
   "macos": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "forceUpdate": false,
     "releaseNotes": [
-      "Cải thiện chức năng tô màu chữ trong Kinh Thánh",
-      "Sửa lỗi chương trình"
+      "Sửa lỗi dữ liệu"
     ],
-    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.4/SetupVietBibleMac2.0.4.zip"
+    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.5/SetupVietBibleMac2.0.5.zip"
   },
   "windows": {
-    "version": "2.0.4",
+    "version": "2.0.5",
     "forceUpdate": false,
     "releaseNotes": [
-      "Thêm chức năng tô màu chữ trong Kinh Thánh",
-      "Sửa lỗi chương trình"
+      "Sửa lỗi dữ liệu"
     ],
-    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.4/SetupVietBibleWin2.0.4.zip"
+    "storeUrl": "https://github.com/mdds-labs/vb-release/releases/download/v2.0.5/SetupVietBibleWin2.0.5.zip"
   }
 }
